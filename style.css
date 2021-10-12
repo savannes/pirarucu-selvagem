@@ -1,0 +1,66 @@
+
+h1.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    font-size: 7em;
+    font-family:"Poiret One", sans-serif;
+    text-align: center;
+    align-items: center;
+}
+
+h3.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    align-items: center;
+}
+
+h5.blocktext {
+    margin-left: 7em;
+    margin-right: auto;
+    width: 20em
+}
+
+h5.blocktext_1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    align-items: center
+       
+}
+
+h5.blocktext_2 {
+    margin-left: 7em;
+    margin-right: auto;
+    width: 50em;
+    align-items: center
+       
+}
+h3.blocktext_1
+{   margin-left: 5em;
+    margin-right: auto;
+    width: auto;
+}
+div.banner1 {
+display:flex;
+justify-content: space-around;
+align-items: center;
+
+}
+
+img.blockimage1 {
+    max-width:50%;
+    max-height:50%;
+}
+img.blockimage2 {
+    max-width:40%;
+    max-height:60%;
+    opacity: 0.9;
+    background-image: url("https://www.bricoflex.com.br/wp-content/uploads/2020/01/bolo-escama.jpg");
+}
+div.card {
+align-items: center;
+
+}
+
